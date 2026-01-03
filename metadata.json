@@ -1,0 +1,7 @@
+{
+  "name": "AI Resume Verifier - Solana MVP",
+  "description": "A decentralized resume verification platform using Gemini AI for scoring and Solana for immutable proof of authenticity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
